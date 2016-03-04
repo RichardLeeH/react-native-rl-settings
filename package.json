@@ -1,0 +1,28 @@
+{
+  "name": "react-native-rl-settings",
+  "version": "0.0.1",
+  "description": "a React native module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richardlihui/react-native-rl-settings.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "native",
+    "settings",
+    "react-native-rl-settings",
+    "NSUserDefaults",
+    "SharedPreferences"
+  ],
+  "author": "RichardLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richardlihui/react-native-rl-settings/issues"
+  },
+  "homepage": "https://github.com/Richardlihui/react-native-rl-settings#readme"
+}
